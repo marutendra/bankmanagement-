@@ -1,3 +1,3 @@
-# bankmanagement 
-all functions are here which used in banks 
-<br>Created by marutendra</br>
+# BankManagement 
+All functions are here which are used in banks 
+<br>Created by Marutendra</br>
